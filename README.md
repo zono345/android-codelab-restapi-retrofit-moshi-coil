@@ -11,9 +11,15 @@ Introduction
 
 ### インターネットからデータを取得する ###
 https://developer.android.com/codelabs/basic-android-kotlin-training-getting-data-internet?hl=ja  
-
 - Retrofit (REST ウェブサービス)
 - Moshiライブラリ (JSON 解析)
+
+### インターネットから画像を読み込んで表示する ###
+https://developer.android.com/codelabs/basic-android-kotlin-training-internet-images?hl=ja
+- Coilライブラリ (画像のダウンロード、バッファリング、デコード、キャッシュ保存)
+- BindingAdapter (Statusデータが変更されたときのViewのカスタム動作を提供)
+- RecyclerView
+- GridLayoutManager
 
   
 アプリ画面
