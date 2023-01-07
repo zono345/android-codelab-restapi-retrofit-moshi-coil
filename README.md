@@ -25,12 +25,14 @@ https://developer.android.com/codelabs/basic-android-kotlin-training-internet-im
 アプリ画面
 ----  
 ### 静止画 ###
-<img src="" width="100%">
+<img src="https://github.com/zono345/android-codelab-restapi-retrofit-moshi-coil/blob/master/readme_file/screen_01.png" width="100%">
   
   
 ### GIF ###  
 **アプリ**  
-<img src="" width="30%">
+|Internet On|Internet Off|
+|---|---|
+|<img src="https://github.com/zono345/android-codelab-restapi-retrofit-moshi-coil/blob/master/readme_file/internet_on.gif" width="74%">|<img src="https://github.com/zono345/android-codelab-restapi-retrofit-moshi-coil/blob/master/readme_file/internet_off.gif" width="50%">|
 
 **テスト: XXXXTests**  
 <img src="" width="100%">
