@@ -13,14 +13,20 @@ Introduction
 https://developer.android.com/codelabs/basic-android-kotlin-training-getting-data-internet?hl=ja  
 - Retrofit (REST ウェブサービス)
 - Moshiライブラリ (JSON 解析)
-
+  
 ### インターネットから画像を読み込んで表示する ###
 https://developer.android.com/codelabs/basic-android-kotlin-training-internet-images?hl=ja
 - Coilライブラリ (画像のダウンロード、バッファリング、デコード、キャッシュ保存)
 - BindingAdapter (Statusデータが変更されたときのViewのカスタム動作を提供)
 - RecyclerView
 - GridLayoutManager
-
+  
+### ネットワーク リクエストをテストする ###
+https://developer.android.com/codelabs/android-basics-kotlin-test-network-request?hl=ja
+- オブジェクト指向プログラミングをテストに適用する方法
+- テスト ディレクトリにリソースを格納する方法
+- テストで suspend 関数を呼び出す方法
+- テストで API レスポンスをモックする方法
   
 アプリ画面
 ----  
