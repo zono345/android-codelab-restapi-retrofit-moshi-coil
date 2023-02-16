@@ -40,8 +40,5 @@ https://developer.android.com/codelabs/android-basics-kotlin-test-network-reques
 |---|---|
 |<img src="https://github.com/zono345/android-codelab-restapi-retrofit-moshi-coil/blob/master/readme_file/internet_on.gif" width="74%">|<img src="https://github.com/zono345/android-codelab-restapi-retrofit-moshi-coil/blob/master/readme_file/internet_off.gif" width="50%">|
 
-**テスト: XXXXTests**  
-<img src="" width="100%">
-
-**テスト: XXXXTests**  
-<img src="" width="100%">
+**テスト: MarsApiServiceTests**  
+<img src="https://github.com/zono345/android-codelab-restapi-retrofit-moshi-coil/blob/master/readme_file/readme_mars_movie_test.gif" width="100%">
